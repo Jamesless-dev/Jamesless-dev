@@ -47,3 +47,11 @@
 #### Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Jamesless-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Jamesless-dev)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jamesless-dev&theme=material-palenight)](https://github.com/Jamesless-dev)
+</div>
